@@ -20,7 +20,6 @@ void lightning(){
    stroke(colr,colg,colb);
    strokeWeight(weight);
    startX=mouseX;
-   println(startX);
  }
  while(startY<500){
  endX=startX + (int)random(-30,30);
