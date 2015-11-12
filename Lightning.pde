@@ -50,7 +50,6 @@ void fade(){
  fill(200,200,200,fad);
  rect(0,0,500,500); 
  fad=fad+5;
- println(fad);
 }
 
 void clouds(){
